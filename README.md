@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+React Context API is Added in App.js.
+To Remove props drilling :) 
 ## Available Scripts
 
 In the project directory, you can run:
